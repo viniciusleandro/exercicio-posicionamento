@@ -1,0 +1,31 @@
+
+.with{
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    overflow: scroll;
+    border: 3px solid red;
+}
+.with1{
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 200px;
+}
+
+p{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

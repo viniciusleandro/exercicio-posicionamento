@@ -1,0 +1,24 @@
+.quadrado{
+    height: 185px;
+    width: 185px;
+    background-color: black;
+    margin: 3px;
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+}
+.one2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.two1{
+    display: flex;
+    flex-direction: row-reverse;
+}

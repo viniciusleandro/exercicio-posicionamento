@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgb(222, 222, 222);
+}
+
+.pai{
+    background-color: blue;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.filho{
+    width: 70%;
+    height: 70%;
+    background-color: red;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}

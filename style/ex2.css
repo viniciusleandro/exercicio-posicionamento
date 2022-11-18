@@ -1,0 +1,25 @@
+.one{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.two{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.three{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.four{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.ok{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
